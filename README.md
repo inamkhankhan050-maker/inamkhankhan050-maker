@@ -25,4 +25,10 @@ A responsive interior-design website that presents home-interior services, work 
 
 ## Freelance work
 
-Open to freelance website projects for small businesses. If you need a responsive business or service website, contact me through [GitHub](https://github.com/inamkhankhan050-maker).
+Open to freelance website projects for small businesses. For a new project, share the business goal, required pages or features, timeline, and any existing website or references through [GitHub](https://github.com/inamkhankhan050-maker).
+
+## Client workflow toolkit
+
+A lightweight set of reusable templates for discovery, onboarding, scope, milestones, QA, feedback, handover, maintenance, project READMEs, and GitHub issues.
+
+[Open the freelance client workflow](freelance-workflow/README.md)
